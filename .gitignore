@@ -1,0 +1,4 @@
+*.gem
+.bundle/
+.ruby-lsp/
+.DS_Store
